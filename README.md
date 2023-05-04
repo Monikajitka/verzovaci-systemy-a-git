@@ -1,0 +1,1 @@
+# Verzovaci servery
