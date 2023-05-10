@@ -1,4 +1,4 @@
-# Kolo
+# Letadlo
 
 Chvíli krokem, chvíli skokem,
 pojedeme autobusem.
